@@ -1,16 +1,16 @@
 {
- "ver": 2026111823,
+ "ver": 2026111824,
  "date": "2026-11-18",
- "notes": "v55: non-geography BD intro items back; history index fix",
+ "notes": "v56: mountain types question corrected",
  "exams": 787,
  "questions": 60322,
  "q": {
-  "sha1": "c0fd0dcb5af71b2884ca3d15e5ba78ac03b7a625",
-  "size": 5183188
+  "sha1": "5562612b19e445a908ed0d2e96d8ab2f88cfb0dd",
+  "size": 5183196
  },
  "x": {
-  "sha1": "100f1ef056064bec112606b035b1f83db4940d37",
-  "size": 6159511
+  "sha1": "4f0f9c96917e5eab0f987b5025f3df708b2f6ec9",
+  "size": 6159708
  },
  "img": []
 }
