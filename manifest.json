@@ -1,16 +1,16 @@
 {
- "ver": 2026111814,
+ "ver": 2026111815,
  "date": "2026-11-18",
- "notes": "v48: Romantic vs Arakan split",
+ "notes": "v49: medieval genre subtopics",
  "exams": 787,
  "questions": 60325,
  "q": {
-  "sha1": "417d15ecf058d689c848424516ce2afef80f41c4",
-  "size": 5183409
+  "sha1": "110ffcf0fb54c29a9842a1079a168d3e64a7c3fc",
+  "size": 5183568
  },
  "x": {
-  "sha1": "535d4096fbf55e850f9bfd00dda6c049fa9d95d5",
-  "size": 6157928
+  "sha1": "f20b5e918645b984c811aff35a4d8bb26a41fe4d",
+  "size": 6158447
  },
  "img": []
 }
