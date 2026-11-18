@@ -1,16 +1,16 @@
 {
- "ver": 2026111811,
+ "ver": 2026111812,
  "date": "2026-11-18",
- "notes": "v45: SDG duplicates merged",
+ "notes": "v46: Fort William questions regrouped",
  "exams": 787,
- "questions": 60328,
+ "questions": 60325,
  "q": {
-  "sha1": "6050f79014d61d251416653588158fb36f5da1ad",
-  "size": 5183897
+  "sha1": "6588ee63e255c2fa674c6236bd3b5d8a04bd6e3d",
+  "size": 5183444
  },
  "x": {
-  "sha1": "cf446182d12cba29621dda7cfa1983abed682096",
-  "size": 6158066
+  "sha1": "0785e9700b344b8a774678713a7cea296eb3de16",
+  "size": 6157408
  },
  "img": []
 }
