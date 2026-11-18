@@ -1,5 +1,5 @@
 {
- "ver": 2026111809,
+ "ver": 2026111810,
  "date": "2026-11-18",
  "notes": "v44: math questions moved out of other subjects",
  "exams": 787,
@@ -9,8 +9,8 @@
   "size": 5184784
  },
  "x": {
-  "sha1": "b35c0c4eee437d4cb00788bb9c13ad31c4c08bd1",
-  "size": 6159276
+  "sha1": "c007db36af9e99a9db8eeebf44b703613dd95938",
+  "size": 6159262
  },
  "img": []
 }
