@@ -1,16 +1,16 @@
 {
- "ver": 2026111827,
+ "ver": 2026111828,
  "date": "2026-11-18",
- "notes": "v59: press freedom and longest river answers",
+ "notes": "v60: উন্মূলন spelling fix",
  "exams": 787,
  "questions": 60322,
  "q": {
-  "sha1": "90a7688d008bd7f643d1988cdc7fe24f46e7a449",
-  "size": 5182654
+  "sha1": "8ceb07d4d4bd412001d08b29c6970c240a52869c",
+  "size": 5182663
  },
  "x": {
-  "sha1": "014a6d4fa095fbc60373ff54e7954a5236274518",
-  "size": 6164542
+  "sha1": "ed8aad49b6ad97d349f892d2b2073b5bbb3bd09d",
+  "size": 6164939
  },
  "img": []
 }
