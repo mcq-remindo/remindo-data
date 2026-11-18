@@ -1,16 +1,16 @@
 {
- "ver": 2026111825,
+ "ver": 2026111826,
  "date": "2026-11-18",
- "notes": "v57: Waiting for Godot question fixed",
+ "notes": "v58: 50th BCS prelim review fixes",
  "exams": 787,
  "questions": 60322,
  "q": {
-  "sha1": "6b4ced3f80ea25684577d3f7ac8ad3a6a38a2e06",
-  "size": 5183196
+  "sha1": "4ff2467534733fe440db1f6b791543a19da04b71",
+  "size": 5182652
  },
  "x": {
-  "sha1": "3ff012f52a63574679c30e880fa3db2fc52e94aa",
-  "size": 6160537
+  "sha1": "8649f310c131426195f519f5adbc9418c38e8923",
+  "size": 6163802
  },
  "img": []
 }
