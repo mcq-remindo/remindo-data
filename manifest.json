@@ -1,16 +1,16 @@
 {
- "ver": 2026111826,
+ "ver": 2026111827,
  "date": "2026-11-18",
- "notes": "v58: 50th BCS prelim review fixes",
+ "notes": "v59: press freedom and longest river answers",
  "exams": 787,
  "questions": 60322,
  "q": {
-  "sha1": "4ff2467534733fe440db1f6b791543a19da04b71",
-  "size": 5182652
+  "sha1": "90a7688d008bd7f643d1988cdc7fe24f46e7a449",
+  "size": 5182654
  },
  "x": {
-  "sha1": "8649f310c131426195f519f5adbc9418c38e8923",
-  "size": 6163802
+  "sha1": "014a6d4fa095fbc60373ff54e7954a5236274518",
+  "size": 6164542
  },
  "img": []
 }
