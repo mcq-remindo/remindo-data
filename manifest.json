@@ -1,12 +1,12 @@
 {
- "ver": 2026111822,
+ "ver": 2026111823,
  "date": "2026-11-18",
- "notes": "v54: International Affairs taxonomy v2",
+ "notes": "v55: non-geography BD intro items back; history index fix",
  "exams": 787,
  "questions": 60322,
  "q": {
-  "sha1": "b85ab54475e67829dd7a0890ddaa3c22e297572b",
-  "size": 5183326
+  "sha1": "c0fd0dcb5af71b2884ca3d15e5ba78ac03b7a625",
+  "size": 5183188
  },
  "x": {
   "sha1": "100f1ef056064bec112606b035b1f83db4940d37",
