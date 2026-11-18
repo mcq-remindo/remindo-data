@@ -1,12 +1,12 @@
 {
- "ver": 2026111821,
+ "ver": 2026111822,
  "date": "2026-11-18",
- "notes": "v53: Bangladesh Affairs taxonomy v2",
+ "notes": "v54: International Affairs taxonomy v2",
  "exams": 787,
  "questions": 60322,
  "q": {
-  "sha1": "3fc65aa8de20a93b6539e1c7749beb850c8c1b78",
-  "size": 5182069
+  "sha1": "b85ab54475e67829dd7a0890ddaa3c22e297572b",
+  "size": 5183326
  },
  "x": {
   "sha1": "100f1ef056064bec112606b035b1f83db4940d37",
