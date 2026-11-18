@@ -1,16 +1,16 @@
 {
- "ver": 2026111802,
+ "ver": 2026111807,
  "date": "2026-11-18",
- "notes": "বাংলা সাহিত্য পুনর্গঠন",
+ "notes": "v42: Bangladesh literature by author; Sabitri Upakhyan; Bong theke Bangla answer",
  "exams": 787,
  "questions": 60342,
  "q": {
-  "sha1": "95dbfc75c4aa93daee805fa96b20b0742380825b",
-  "size": 5185774
+  "sha1": "fa81ffdf03979c62c5ba1b9a5e894ddae9a06c87",
+  "size": 5185128
  },
  "x": {
-  "sha1": "9a614b7e68a90e5c59cd81e3da7b0c074156c8c6",
-  "size": 6157500
+  "sha1": "9950a574eb02a4d9ef0471842ff0547edeaeff2d",
+  "size": 6158915
  },
  "img": []
 }
