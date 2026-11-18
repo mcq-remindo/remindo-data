@@ -1,12 +1,12 @@
 {
- "ver": 2026111813,
+ "ver": 2026111814,
  "date": "2026-11-18",
- "notes": "v47: sovereignty answer fix",
+ "notes": "v48: Romantic vs Arakan split",
  "exams": 787,
  "questions": 60325,
  "q": {
-  "sha1": "1a399afcb9103b08a66f89b47cb2b95faf0e0798",
-  "size": 5183434
+  "sha1": "417d15ecf058d689c848424516ce2afef80f41c4",
+  "size": 5183409
  },
  "x": {
   "sha1": "535d4096fbf55e850f9bfd00dda6c049fa9d95d5",
