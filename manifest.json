@@ -1,12 +1,12 @@
 {
- "ver": 2026111818,
+ "ver": 2026111819,
  "date": "2026-11-18",
- "notes": "v51: medieval misc reviewed",
+ "notes": "v52: ancient & folk literature split",
  "exams": 787,
  "questions": 60322,
  "q": {
-  "sha1": "ef6c3100649866f6c0010b37f035c0b729ad533b",
-  "size": 5183482
+  "sha1": "d6e4b09986d53fa99177105b0129242743dd8a2e",
+  "size": 5183525
  },
  "x": {
   "sha1": "100f1ef056064bec112606b035b1f83db4940d37",
