@@ -1,16 +1,16 @@
 {
- "ver": 2026111817,
+ "ver": 2026111818,
  "date": "2026-11-18",
- "notes": "v50: two literature answers decided",
+ "notes": "v51: medieval misc reviewed",
  "exams": 787,
- "questions": 60324,
+ "questions": 60322,
  "q": {
-  "sha1": "a6541cebdc1e69216c85d3a55252f2adbb45df67",
-  "size": 5183480
+  "sha1": "ef6c3100649866f6c0010b37f035c0b729ad533b",
+  "size": 5183482
  },
  "x": {
-  "sha1": "ecf09e0d533345d185c3d6804595bb22faaa5ca0",
-  "size": 6159412
+  "sha1": "100f1ef056064bec112606b035b1f83db4940d37",
+  "size": 6159511
  },
  "img": []
 }
