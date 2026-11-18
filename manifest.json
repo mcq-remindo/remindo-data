@@ -1,16 +1,16 @@
 {
- "ver": 2026111808,
+ "ver": 2026111809,
  "date": "2026-11-18",
- "notes": "v43: misfiled questions moved out of Bangla grammar",
+ "notes": "v44: math questions moved out of other subjects",
  "exams": 787,
  "questions": 60342,
  "q": {
-  "sha1": "4de918f66f1612bdde42784d453a9cdcd7ffc06c",
-  "size": 5184765
+  "sha1": "6671ad07fd3b6f87e20fc55547ea54694cf1f75b",
+  "size": 5184784
  },
  "x": {
-  "sha1": "9950a574eb02a4d9ef0471842ff0547edeaeff2d",
-  "size": 6158915
+  "sha1": "b35c0c4eee437d4cb00788bb9c13ad31c4c08bd1",
+  "size": 6159276
  },
  "img": []
 }
