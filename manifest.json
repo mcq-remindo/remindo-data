@@ -1,12 +1,12 @@
 {
- "ver": 2026111815,
+ "ver": 2026111816,
  "date": "2026-11-18",
- "notes": "v49: medieval genre subtopics",
+ "notes": "v49b: Tagore/Nazrul back under 20th century",
  "exams": 787,
  "questions": 60325,
  "q": {
-  "sha1": "110ffcf0fb54c29a9842a1079a168d3e64a7c3fc",
-  "size": 5183568
+  "sha1": "55426504abd70d98849c1e895cd348f0cea20a8c",
+  "size": 5183607
  },
  "x": {
   "sha1": "f20b5e918645b984c811aff35a4d8bb26a41fe4d",
