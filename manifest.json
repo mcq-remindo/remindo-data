@@ -1,16 +1,16 @@
 {
- "ver": 2026111816,
+ "ver": 2026111817,
  "date": "2026-11-18",
- "notes": "v49b: Tagore/Nazrul back under 20th century",
+ "notes": "v50: two literature answers decided",
  "exams": 787,
- "questions": 60325,
+ "questions": 60324,
  "q": {
-  "sha1": "55426504abd70d98849c1e895cd348f0cea20a8c",
-  "size": 5183607
+  "sha1": "a6541cebdc1e69216c85d3a55252f2adbb45df67",
+  "size": 5183480
  },
  "x": {
-  "sha1": "f20b5e918645b984c811aff35a4d8bb26a41fe4d",
-  "size": 6158447
+  "sha1": "ecf09e0d533345d185c3d6804595bb22faaa5ca0",
+  "size": 6159412
  },
  "img": []
 }
