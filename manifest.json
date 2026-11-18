@@ -1,16 +1,16 @@
 {
- "ver": 2026111810,
+ "ver": 2026111811,
  "date": "2026-11-18",
- "notes": "v44: math questions moved out of other subjects",
+ "notes": "v45: SDG duplicates merged",
  "exams": 787,
- "questions": 60342,
+ "questions": 60328,
  "q": {
-  "sha1": "6671ad07fd3b6f87e20fc55547ea54694cf1f75b",
-  "size": 5184784
+  "sha1": "6050f79014d61d251416653588158fb36f5da1ad",
+  "size": 5183897
  },
  "x": {
-  "sha1": "c007db36af9e99a9db8eeebf44b703613dd95938",
-  "size": 6159262
+  "sha1": "cf446182d12cba29621dda7cfa1983abed682096",
+  "size": 6158066
  },
  "img": []
 }
