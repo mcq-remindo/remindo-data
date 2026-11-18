@@ -1,16 +1,16 @@
 {
- "ver": 2026111812,
+ "ver": 2026111813,
  "date": "2026-11-18",
- "notes": "v46: Fort William questions regrouped",
+ "notes": "v47: sovereignty answer fix",
  "exams": 787,
  "questions": 60325,
  "q": {
-  "sha1": "6588ee63e255c2fa674c6236bd3b5d8a04bd6e3d",
-  "size": 5183444
+  "sha1": "1a399afcb9103b08a66f89b47cb2b95faf0e0798",
+  "size": 5183434
  },
  "x": {
-  "sha1": "0785e9700b344b8a774678713a7cea296eb3de16",
-  "size": 6157408
+  "sha1": "535d4096fbf55e850f9bfd00dda6c049fa9d95d5",
+  "size": 6157928
  },
  "img": []
 }
