@@ -1,16 +1,16 @@
 {
- "ver": 2026112110,
+ "ver": 2026112112,
  "date": "2026-11-21",
- "notes": "v63: fill it in প্রশ্নের উত্তর সংশোধন",
+ "notes": "v64: because of প্রশ্নের উত্তর সংশোধন",
  "exams": 787,
  "questions": 60322,
  "q": {
-  "sha1": "56dc0ccb1c455bd1a5fff276632b60ad0f753742",
-  "size": 5182685
+  "sha1": "a48159443a27a673649ded8bb26a1ec4055ca37e",
+  "size": 5182690
  },
  "x": {
-  "sha1": "40e70d46a462b027d75ca3fac5c74ab52accb2e8",
-  "size": 6167382
+  "sha1": "be8b308ea34e6b26588a19d4b538498b4dbbddec",
+  "size": 6167753
  },
  "img": []
 }
