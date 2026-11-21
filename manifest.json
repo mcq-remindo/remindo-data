@@ -1,16 +1,16 @@
 {
- "ver": 2026112021,
- "date": "2026-11-20",
- "notes": "v62: Algorithm, SMTP, correct spelling প্রশ্ন সংশোধন",
+ "ver": 2026112110,
+ "date": "2026-11-21",
+ "notes": "v63: fill it in প্রশ্নের উত্তর সংশোধন",
  "exams": 787,
  "questions": 60322,
  "q": {
-  "sha1": "73e1b89c08eb71193fa3bf695b9f4c5fcd2f9786",
-  "size": 5182682
+  "sha1": "56dc0ccb1c455bd1a5fff276632b60ad0f753742",
+  "size": 5182685
  },
  "x": {
-  "sha1": "cc775a0e16af98ee86eebf3133f0c987b7a81d88",
-  "size": 6166854
+  "sha1": "40e70d46a462b027d75ca3fac5c74ab52accb2e8",
+  "size": 6167382
  },
  "img": []
 }
