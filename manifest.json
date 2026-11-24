@@ -1,16 +1,16 @@
 {
- "ver": 2026112407,
+ "ver": 2026112408,
  "date": "2026-11-24",
- "notes": "v80: গণিতে ক্যালকুলাস টপিক",
+ "notes": "v81: There ... several errors উত্তর সংশোধন",
  "exams": 789,
  "questions": 60443,
  "q": {
-  "sha1": "056ef9c2686157529c588bf06678b0e5d0588b7c",
-  "size": 5189275
+  "sha1": "15355fe041f613065b920f4eeb6e692f21c964d1",
+  "size": 5189281
  },
  "x": {
-  "sha1": "e1dc2a35bc3d8846e7ab789d0ac0c45d80b426e7",
-  "size": 6183289
+  "sha1": "0fdbec4d7dc12159c112b1fb35681e4a1ac0b290",
+  "size": 6183462
  },
  "img": []
 }
