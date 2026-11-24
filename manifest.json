@@ -1,16 +1,16 @@
 {
- "ver": 2026112409,
+ "ver": 2026112410,
  "date": "2026-11-24",
- "notes": "v82: Coast Guard Senior Staff Nurse 19.11.2026 (100 Q: 38 new, 62 merged)",
+ "notes": "v83: rewrite 4 explanations, EPI Q to Science",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "b97dd4d402a3ea9030d6de23ca31c9928d6d4238",
-  "size": 5192210
+  "sha1": "6b4f04e0b9e5b7576fd337ec521c71c118b13a5c",
+  "size": 5192216
  },
  "x": {
-  "sha1": "58e8f32035e6b2430e9addb29e87574cf3761e04",
-  "size": 6186372
+  "sha1": "c1320154b9c77fed0df7caf8118ab730d97e6cab",
+  "size": 6187303
  },
  "img": []
 }
