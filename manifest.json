@@ -1,16 +1,16 @@
 {
- "ver": 2026112422,
+ "ver": 2026112423,
  "date": "2026-11-24",
- "notes": "v95: Ethics taxonomy maximized (13 topics, 108 sub-topics)",
+ "notes": "v96: user report fixes (lever questions 43rd BCS Q117, 40th BCS Q199)",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "4dc6584d75d9dff6bdb222fbe6b1e51eb6db3a2b",
-  "size": 5199490
+  "sha1": "a985a7932aec4f9ce17172399697501af6fe2faf",
+  "size": 5199343
  },
  "x": {
-  "sha1": "4df6332352fb1c79b2b6e479a91caeee272151cb",
-  "size": 6189294
+  "sha1": "a7de815d147eec390f4c58fe24db64669ea01f02",
+  "size": 6189597
  },
  "img": []
 }
