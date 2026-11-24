@@ -1,16 +1,16 @@
 {
- "ver": 2026112411,
+ "ver": 2026112412,
  "date": "2026-11-24",
- "notes": "v84: question text fix",
+ "notes": "v85: fix broken LaTeX in 2 math questions",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "acd9d6eafe833e8f12dcf2bd5dc0665f03424eeb",
-  "size": 5192211
+  "sha1": "c45adc5f1bf03fdc621e8f5c21a050d3d369afb9",
+  "size": 5192221
  },
  "x": {
-  "sha1": "c1320154b9c77fed0df7caf8118ab730d97e6cab",
-  "size": 6187303
+  "sha1": "ca8b186187a8fb1c165b602057739c54c5a7e568",
+  "size": 6187580
  },
  "img": []
 }
