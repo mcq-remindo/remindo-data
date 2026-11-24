@@ -1,12 +1,12 @@
 {
- "ver": 2026112410,
+ "ver": 2026112411,
  "date": "2026-11-24",
- "notes": "v83: rewrite 4 explanations, EPI Q to Science",
+ "notes": "v84: question text fix",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "6b4f04e0b9e5b7576fd337ec521c71c118b13a5c",
-  "size": 5192216
+  "sha1": "acd9d6eafe833e8f12dcf2bd5dc0665f03424eeb",
+  "size": 5192211
  },
  "x": {
   "sha1": "c1320154b9c77fed0df7caf8118ab730d97e6cab",
