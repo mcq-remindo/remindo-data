@@ -1,16 +1,16 @@
 {
- "ver": 2026112416,
+ "ver": 2026112417,
  "date": "2026-11-24",
- "notes": "v89: bautiful → beautiful",
+ "notes": "v90: 5 question fixes",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "be8421c08b5bc80f44202011233808c148cb83dd",
-  "size": 5192222
+  "sha1": "53f3bddcf65e5285ea6a78b61e3cd79c47803db2",
+  "size": 5192190
  },
  "x": {
-  "sha1": "fcc8c6167e527459b2da0abec9a7686aefd3fbb0",
-  "size": 6188484
+  "sha1": "1d5803db403f82e60d7435aef7a488de4df1f45f",
+  "size": 6189327
  },
  "img": []
 }
