@@ -1,12 +1,12 @@
 {
- "ver": 2026112418,
+ "ver": 2026112419,
  "date": "2026-11-24",
- "notes": "v91: clock question cancelled",
+ "notes": "v92: বাংলা সাহিত্য taxonomy v2",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "20220b59e1ecf5917968308fd8b8f850257e23de",
-  "size": 5192195
+  "sha1": "b74f7ce7a1fd6d1a0559d57edb5de85a5ddab08f",
+  "size": 5194994
  },
  "x": {
   "sha1": "4df6332352fb1c79b2b6e479a91caeee272151cb",
