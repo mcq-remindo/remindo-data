@@ -1,12 +1,12 @@
 {
- "ver": 2026112419,
+ "ver": 2026112420,
  "date": "2026-11-24",
- "notes": "v92: বাংলা সাহিত্য taxonomy v2",
+ "notes": "v93: English taxonomy v2",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "b74f7ce7a1fd6d1a0559d57edb5de85a5ddab08f",
-  "size": 5194994
+  "sha1": "5e3b31aa951d37e0b1f567480b9c07e125be834c",
+  "size": 5196203
  },
  "x": {
   "sha1": "4df6332352fb1c79b2b6e479a91caeee272151cb",
