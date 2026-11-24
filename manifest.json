@@ -1,16 +1,16 @@
 {
- "ver": 2026112417,
+ "ver": 2026112418,
  "date": "2026-11-24",
- "notes": "v90: 5 question fixes",
+ "notes": "v91: clock question cancelled",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "53f3bddcf65e5285ea6a78b61e3cd79c47803db2",
-  "size": 5192190
+  "sha1": "20220b59e1ecf5917968308fd8b8f850257e23de",
+  "size": 5192195
  },
  "x": {
-  "sha1": "1d5803db403f82e60d7435aef7a488de4df1f45f",
-  "size": 6189327
+  "sha1": "4df6332352fb1c79b2b6e479a91caeee272151cb",
+  "size": 6189294
  },
  "img": []
 }
