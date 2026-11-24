@@ -1,16 +1,16 @@
 {
- "ver": 2026112408,
+ "ver": 2026112409,
  "date": "2026-11-24",
- "notes": "v81: There ... several errors উত্তর সংশোধন",
- "exams": 789,
- "questions": 60443,
+ "notes": "v82: Coast Guard Senior Staff Nurse 19.11.2026 (100 Q: 38 new, 62 merged)",
+ "exams": 790,
+ "questions": 60481,
  "q": {
-  "sha1": "15355fe041f613065b920f4eeb6e692f21c964d1",
-  "size": 5189281
+  "sha1": "b97dd4d402a3ea9030d6de23ca31c9928d6d4238",
+  "size": 5192210
  },
  "x": {
-  "sha1": "0fdbec4d7dc12159c112b1fb35681e4a1ac0b290",
-  "size": 6183462
+  "sha1": "58e8f32035e6b2430e9addb29e87574cf3761e04",
+  "size": 6186372
  },
  "img": []
 }
