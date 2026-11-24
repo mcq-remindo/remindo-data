@@ -1,16 +1,24 @@
 {
- "ver": 2026112423,
+ "ver": 2026112424,
  "date": "2026-11-24",
- "notes": "v96: user report fixes (lever questions 43rd BCS Q117, 40th BCS Q199)",
+ "notes": "v97: 40th BCS Q199 figure added; 43rd BCS Q117 question/explanation figures",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "a985a7932aec4f9ce17172399697501af6fe2faf",
-  "size": 5199343
+  "sha1": "fd9c7a7b38f7cb8015f568873852c5382ac80967",
+  "size": 5199372
  },
  "x": {
-  "sha1": "a7de815d147eec390f4c58fe24db64669ea01f02",
-  "size": 6189597
+  "sha1": "2f29fb1139e5cf55c8bd7999d0bfcbe18ab6256e",
+  "size": 6189579
  },
- "img": []
+ "img": [
+  {
+   "pack": "img_2026112424.zip",
+   "size": 8614,
+   "files": [
+    "40BCS-199_q.webp"
+   ]
+  }
+ ]
 }
