@@ -1,16 +1,16 @@
 {
- "ver": 2026112424,
+ "ver": 2026112425,
  "date": "2026-11-24",
- "notes": "v97: 40th BCS Q199 figure added; 43rd BCS Q117 question/explanation figures",
+ "notes": "v98: 46 philosophy questions moved to Ethics; Academy year and Plato's justice answers fixed",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "fd9c7a7b38f7cb8015f568873852c5382ac80967",
-  "size": 5199372
+  "sha1": "2d18e603e04a25b7b8cd07eef14cb29fc327b75d",
+  "size": 5198025
  },
  "x": {
-  "sha1": "2f29fb1139e5cf55c8bd7999d0bfcbe18ab6256e",
-  "size": 6189579
+  "sha1": "808181145d0d5a6d930b832c82553ee72e6bdfbe",
+  "size": 6189892
  },
  "img": [
   {
