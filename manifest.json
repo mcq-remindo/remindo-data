@@ -1,12 +1,12 @@
 {
- "ver": 2026112421,
+ "ver": 2026112422,
  "date": "2026-11-24",
- "notes": "v94: বাংলা ভাষা taxonomy v2",
+ "notes": "v95: Ethics taxonomy maximized (13 topics, 108 sub-topics)",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "ee0e2bfe9e02c810da4e9bfb370637ad9a43e37f",
-  "size": 5197927
+  "sha1": "4dc6584d75d9dff6bdb222fbe6b1e51eb6db3a2b",
+  "size": 5199490
  },
  "x": {
   "sha1": "4df6332352fb1c79b2b6e479a91caeee272151cb",
