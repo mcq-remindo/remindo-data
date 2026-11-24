@@ -1,16 +1,16 @@
 {
- "ver": 2026112415,
+ "ver": 2026112416,
  "date": "2026-11-24",
- "notes": "v88: নরঅধম → নরাধম",
+ "notes": "v89: bautiful → beautiful",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "da41510e7d159caedb2fa0b1c477708407338cef",
+  "sha1": "be8421c08b5bc80f44202011233808c148cb83dd",
   "size": 5192222
  },
  "x": {
-  "sha1": "85ce1b38360d822c44f273264a4fac62cbe57d99",
-  "size": 6188249
+  "sha1": "fcc8c6167e527459b2da0abec9a7686aefd3fbb0",
+  "size": 6188484
  },
  "img": []
 }
