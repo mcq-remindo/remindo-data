@@ -1,12 +1,12 @@
 {
- "ver": 2026112600,
+ "ver": 2026112601,
  "date": "2026-11-26",
- "notes": "v104: 30th BCS written square-count question: answer 5, figure placement",
+ "notes": "v105: figure-count (squares) explanation figures moved to explanations",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "e6a12721c3183fadbbb024f3977b87cf683770cb",
-  "size": 5197018
+  "sha1": "52d3aad4852f8dd37253e5239782206a9f00ee53",
+  "size": 5197021
  },
  "x": {
   "sha1": "030da25605622f9cfcf566488c8bbf763a029261",
