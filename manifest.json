@@ -1,16 +1,16 @@
 {
- "ver": 2026112601,
+ "ver": 2026112602,
  "date": "2026-11-26",
- "notes": "v105: figure-count (squares) explanation figures moved to explanations",
+ "notes": "v106: figure questions: explanation figures moved, duplicate figures removed, 1 answer fixed",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "52d3aad4852f8dd37253e5239782206a9f00ee53",
-  "size": 5197021
+  "sha1": "f16b98e4bd5573b5afd0a61a31d5361cafc53f0f",
+  "size": 5196898
  },
  "x": {
-  "sha1": "030da25605622f9cfcf566488c8bbf763a029261",
-  "size": 6206066
+  "sha1": "3817d62faf77e4e73e4bac7279a810ab9127bead",
+  "size": 6206100
  },
  "img": [
   {
