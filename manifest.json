@@ -1,16 +1,16 @@
 {
- "ver": 2026112425,
- "date": "2026-11-24",
- "notes": "v98: 46 philosophy questions moved to Ethics; Academy year and Plato's justice answers fixed",
+ "ver": 2026112509,
+ "date": "2026-11-25",
+ "notes": "v99: অন্যান্য থেকে ১৮৬টি প্রশ্ন সিলেবাসের বিষয়ে স্থানান্তর",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "2d18e603e04a25b7b8cd07eef14cb29fc327b75d",
-  "size": 5198025
+  "sha1": "2a1f90de2d71cb61853405646ae7cb89e9a2e474",
+  "size": 5196974
  },
  "x": {
-  "sha1": "808181145d0d5a6d930b832c82553ee72e6bdfbe",
-  "size": 6189892
+  "sha1": "edb4f6a66017f2e5df4ff765bfb8ca1236190689",
+  "size": 6190114
  },
  "img": [
   {
