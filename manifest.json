@@ -1,16 +1,16 @@
 {
- "ver": 2026112515,
+ "ver": 2026112521,
  "date": "2026-11-25",
- "notes": "v102: বিজ্ঞানের বিশেষায়িত ৭০টি প্রশ্ন সরানো",
+ "notes": "v103: Gemini explanations (sahitya missing 001), 2 answer fixes, 12 topic fixes",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "7ce2adfb5765791569b8ee5e84a09d31849afd4f",
-  "size": 5197155
+  "sha1": "02b85213d9c983b0e99e6f35398eaf83c92fdea9",
+  "size": 5197015
  },
  "x": {
-  "sha1": "499186d3eb00f9924ba72f4bf3653bf707669881",
-  "size": 6190743
+  "sha1": "9961ec38962fff3dcda0fa4cb7d8eed8df5c909b",
+  "size": 6206038
  },
  "img": [
   {
