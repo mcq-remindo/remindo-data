@@ -1,16 +1,16 @@
 {
- "ver": 2026112603,
+ "ver": 2026112604,
  "date": "2026-11-26",
- "notes": "v107: 2:15 clock-angle question: options fixed, 6 copies merged",
+ "notes": "v108: 43rd BCS Q122 SEARCH coding question fixed",
  "exams": 790,
  "questions": 60476,
  "q": {
-  "sha1": "6336081635e52b6fe321116be95f3bbf3140bc50",
-  "size": 5196634
+  "sha1": "a093385901cd169b3c2d380f0f9eb2afe4aed58f",
+  "size": 5196615
  },
  "x": {
-  "sha1": "0ffb5f647ac761b3adf1c7b9695b93a45144b4ff",
-  "size": 6206746
+  "sha1": "88443e72cc48620e864fa7e1ee9be185fb21c625",
+  "size": 6206895
  },
  "img": [
   {
