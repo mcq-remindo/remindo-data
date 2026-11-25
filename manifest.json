@@ -1,16 +1,16 @@
 {
- "ver": 2026112521,
- "date": "2026-11-25",
- "notes": "v103: Gemini explanations (sahitya missing 001), 2 answer fixes, 12 topic fixes",
+ "ver": 2026112600,
+ "date": "2026-11-26",
+ "notes": "v104: 30th BCS written square-count question: answer 5, figure placement",
  "exams": 790,
  "questions": 60481,
  "q": {
-  "sha1": "02b85213d9c983b0e99e6f35398eaf83c92fdea9",
-  "size": 5197015
+  "sha1": "e6a12721c3183fadbbb024f3977b87cf683770cb",
+  "size": 5197018
  },
  "x": {
-  "sha1": "9961ec38962fff3dcda0fa4cb7d8eed8df5c909b",
-  "size": 6206038
+  "sha1": "030da25605622f9cfcf566488c8bbf763a029261",
+  "size": 6206066
  },
  "img": [
   {
