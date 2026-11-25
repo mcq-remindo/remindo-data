@@ -1,16 +1,16 @@
 {
- "ver": 2026112602,
+ "ver": 2026112603,
  "date": "2026-11-26",
- "notes": "v106: figure questions: explanation figures moved, duplicate figures removed, 1 answer fixed",
+ "notes": "v107: 2:15 clock-angle question: options fixed, 6 copies merged",
  "exams": 790,
- "questions": 60481,
+ "questions": 60476,
  "q": {
-  "sha1": "f16b98e4bd5573b5afd0a61a31d5361cafc53f0f",
-  "size": 5196898
+  "sha1": "6336081635e52b6fe321116be95f3bbf3140bc50",
+  "size": 5196634
  },
  "x": {
-  "sha1": "3817d62faf77e4e73e4bac7279a810ab9127bead",
-  "size": 6206100
+  "sha1": "0ffb5f647ac761b3adf1c7b9695b93a45144b4ff",
+  "size": 6206746
  },
  "img": [
   {
