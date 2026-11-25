@@ -1,16 +1,16 @@
 {
- "ver": 2026112604,
+ "ver": 2026112605,
  "date": "2026-11-26",
- "notes": "v108: 43rd BCS Q122 SEARCH coding question fixed",
+ "notes": "v109: SEARCH coding question merged (43rd BCS + Security Printing 2026)",
  "exams": 790,
- "questions": 60476,
+ "questions": 60475,
  "q": {
-  "sha1": "a093385901cd169b3c2d380f0f9eb2afe4aed58f",
-  "size": 5196615
+  "sha1": "bf7adedc90388d5979ba324e9dfc29478da5d16c",
+  "size": 5196537
  },
  "x": {
-  "sha1": "88443e72cc48620e864fa7e1ee9be185fb21c625",
-  "size": 6206895
+  "sha1": "09d259113c26eb56917edbb161fec109c4bb0503",
+  "size": 6206711
  },
  "img": [
   {
