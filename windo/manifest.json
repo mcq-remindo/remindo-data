@@ -1,0 +1,27 @@
+{
+ "ver": 2026112610,
+ "date": "2026-11-26",
+ "notes": "Windo v1.3.0: real-exam vocabulary",
+ "words": 3927,
+ "examQuestions": 2849,
+ "cats": {
+  "syn": 495,
+  "idiom": 805,
+  "ant": 418,
+  "blank": 559,
+  "one": 226,
+  "mean": 346
+ },
+ "dict": {
+  "sha1": "88bb8a3ccbb44dc9e66df1201a739d31c7e1f737",
+  "size": 1020349
+ },
+ "exam": {
+  "sha1": "13fe7878ffb370342fdca08ecb343efbfe060fc6",
+  "size": 354937
+ },
+ "books": {
+  "sha1": "2eb30cbec3bea4a04aacc186d29e000c9efb53f9",
+  "size": 16616
+ }
+}
